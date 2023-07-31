@@ -1,0 +1,5 @@
+account: lta38753
+role: DATA_ANALYTICS
+warehouse: DS_WH
+database: AHARRIS
+schema: REGRESSION
